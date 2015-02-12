@@ -15,20 +15,12 @@ public class Sample5 implements SelectionMechanism{
 	Set<JSONObject> mutants;
 
 	
-<<<<<<< HEAD
      
-=======
-	@Override
->>>>>>> 47e259bbe1ee169813a534bbba91bcae77bbced7
 	public void setMutants(Set<JSONObject> mutants) {
 		this.mutants = mutants;	
 	}
 
-<<<<<<< HEAD
 
-=======
-	@Override
->>>>>>> 47e259bbe1ee169813a534bbba91bcae77bbced7
 	public void setKilledMutants(Set<JSONObject> mutants) {
 		
 	}
